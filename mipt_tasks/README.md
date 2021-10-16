@@ -2,3 +2,4 @@
 
 ## Completed
  - KNN
+ - Linear regression
